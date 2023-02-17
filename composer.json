@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/notifications": "^8.0|^9.0",
-        "illuminate/support": "^8.0|^9.0",
+        "illuminate/notifications": "^8.0|^9.0|^10",
+        "illuminate/support": "^8.0|^9.0|^10",
         "minishlink/web-push": "^8.0"
     },
     "require-dev": {
